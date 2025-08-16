@@ -44,5 +44,3 @@ This project is a Node.js Express API for managing riders and finding nearby rid
 - The `riders` table is created automatically if it does not exist.
 - Do not commit `node_modules` to git. Use `.gitignore`.
 
-## License
-MIT
